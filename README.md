@@ -5,7 +5,9 @@ Encryption used is AES block chain mode CFB.
   To hide message input password and message.
  UNHIDING
   To unhide secret message input password it will display hidden message.
+  
  HOW TO:
+ 
  During hiding:
  
  1)Download or clone python file.
